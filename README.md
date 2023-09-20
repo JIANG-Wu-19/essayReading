@@ -11,3 +11,4 @@
 ## LISA
 
 * [2308.00692 LISA: Reasoning Segmentation via Large Language Model (arxiv.org)](https://arxiv.org/abs/2308.00692)
+  * [2305.11175 VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks (arxiv.org)](https://arxiv.org/abs/2305.11175)
