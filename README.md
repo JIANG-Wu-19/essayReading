@@ -12,3 +12,11 @@
 
 * [2308.00692 LISA: Reasoning Segmentation via Large Language Model (arxiv.org)](https://arxiv.org/abs/2308.00692)
   * [2305.11175 VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks (arxiv.org)](https://arxiv.org/abs/2305.11175)
+
+## 城市计算
+
+* [Zone-Enhanced Spatio-Temporal Representation Learning for Urban POI Recommendation | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/10040753)
+
+## 隐私计算
+
+[Achieving Privacy-Preserving and Lightweight Truth Discovery in Mobile Crowdsensing | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9340556)
