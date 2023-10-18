@@ -16,7 +16,11 @@
 ## 城市计算
 
 * [Zone-Enhanced Spatio-Temporal Representation Learning for Urban POI Recommendation | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/10040753)
+* [An Observed Value Consistent Diffusion Model for Imputing Missing Values in Multivariate Time Series | Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/10.1145/3580305.3599257)
+* [Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models | Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/10.1145/3580305.3599391)
+* [Urban Region Representation Learning with OpenStreetMap Building Footprints | Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/10.1145/3580305.3599538)
+* [[2304.11582\] Diffusion Model for GPS Trajectory Generation (arxiv.org)](https://arxiv.org/abs/2304.11582)
 
 ## 隐私计算
 
-[Achieving Privacy-Preserving and Lightweight Truth Discovery in Mobile Crowdsensing | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9340556)
+* [Achieving Privacy-Preserving and Lightweight Truth Discovery in Mobile Crowdsensing | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9340556)
