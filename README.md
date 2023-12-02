@@ -32,6 +32,7 @@
 
 * [Toward Early and Accurate Network Intrusion Detection Using Graph Embedding | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/10262084/references)
   * [1707.05005 graph2vec: Learning Distributed Representations of Graphs (arxiv.org)](https://arxiv.org/abs/1707.05005)
+* [2311.12074 SecureBERT and LLAMA 2 Empowered Control Area Network Intrusion Detection and Classification (arxiv.org)](https://arxiv.org/abs/2311.12074)
 
 ## fine-grained
 
